@@ -1,0 +1,7 @@
+Este ejemplo utiliza el paradigma imperativo, donde el programa indica paso a paso qué hacer.
+
+Se recorre una lista de contenedores y se modifica su estado mediante estructuras de control (for e if).
+
+Este enfoque es útil cuando se necesita control directo sobre los datos y el flujo de ejecución.
+
+El ejemplo está simplificado, pero representa una lógica común en sistemas reales donde los estados cambian a lo largo del tiempo.
