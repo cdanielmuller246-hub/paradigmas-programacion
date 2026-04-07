@@ -2,6 +2,7 @@
 
 Este repositorio contiene actividades prácticas de la materia Paradigmas y Lenguajes de Programación.
 
+
 ## Actividad 2 - Paradigma Imperativo en Python
 
 Se presenta un ejemplo simple donde se trabaja con una lista de contenedores y se modifica su estado utilizando estructuras de control.
@@ -13,3 +14,5 @@ Este enfoque representa el paradigma imperativo, donde el programa indica paso a
 - actividad-2/
   - codigo.py
   - explicacion.txt
+
+Este ejemplo está simplificado, pero refleja una lógica común en sistemas reales donde las entidades cambian de estado a lo largo del tiempo.
