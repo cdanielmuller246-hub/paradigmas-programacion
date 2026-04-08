@@ -1,0 +1,8 @@
+Lenguaje elegido: JavaScript
+JavaScript es multiparadigma, pero en este caso lo vamos a enfocar en:
+Paradigma dirigido por eventos (Event-Driven Programming)
+En este paradigma:
+• No controlás el flujo directamente
+• El flujo lo controlan los eventos
+Ejemplo: Este ejemplo muestra cómo reaccionar a un evento (un clic
+en un botón):
